@@ -3,5 +3,4 @@ public class BonusMilesService {
         int bonusMiles = price / 20;
         return bonusMiles;
     }
-
 }
